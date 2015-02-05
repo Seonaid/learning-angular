@@ -1,0 +1,50 @@
+[{
+		"name": "Diamond",
+		"price": 14.95,
+		"images": [{
+			"full": "images/diamond.jpeg",
+			"thumb": "images/diamond-thumb.gif"
+			},
+			{"full": "images/diamond-square.jpg",
+			"thumb": "images/diamond-square-thumb.jpeg"}],
+		"reviews": [
+		{
+			"stars": 5,
+			"body": "I love this product!",
+			"author": "joe@thomas.com"
+		},
+		{
+			"stars": 1,
+			"body": "Diamonds suck!",
+			"author": "hatr@grumpy.com"
+		}],
+		"description": "Diamonds are used to trick people into giving up large amounts of money for a shiny rock. Also, emotional neediness.",
+		"canPurchase": true,
+		"soldOut": true
+	},
+	{
+		"name": "Emerald",
+		"price": 17.50,
+		"description": "Green! So shiny, so green!",
+		"images": [{
+			"full": "images/emerald.png",
+			"thumb": "images/emerald-thumb.png"
+			},
+			{"full": "images/emerald2.png",
+			"thumb": "images/emerald2-thumb.png"}],
+				"reviews": [
+		{
+			"stars": 5,
+			"body": "I love this product! Really, I lack discrimination.",
+			"author": "joe@thomas.com"
+		},
+		{
+			"stars": 1,
+			"body": "Emeralds suck, too!",
+			"author": "hatr@grumpy.com"
+		}],
+		"canPurchase": true,
+		"soldOut": false
+	}
+
+	]
